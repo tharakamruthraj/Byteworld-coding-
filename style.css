@@ -1,0 +1,6 @@
+.view{
+    display: flex;
+    padding: 20px;
+    background-color: black;
+    text-align: center;
+}
